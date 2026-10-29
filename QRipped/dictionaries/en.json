@@ -1,0 +1,90 @@
+{
+  "badge": "Payment successfully confirmed!",
+  "title": "Choose Your Goal",
+  "subtitle": "Select below what you want to achieve with your body.",
+  "goalLabel": "Main Objective",
+  "bulkingTitle": "Muscle Mass Gain",
+  "bulkingDesc": "Caloric surplus for clean muscle growth.",
+  "cuttingTitle": "Weight & Fat Loss",
+  "cuttingDesc": "Caloric deficit for definition and toning.",
+  "nameLabel": "Full Name",
+  "emailLabel": "Email Address",
+  "ageLabel": "Age",
+  "weightLabel": "Weight (kg)",
+  "heightLabel": "Height (cm)",
+  "notesLabel": "Allergies or Notes (Optional)",
+  "notesPlaceholder": "e.g., lactose intolerant...",
+  "submitBtn": "Generate Personalized Plan →",
+  "loadingBtn": "Generating plan...",
+  "planTitle": "Hello",
+  "planSubtitle": "This is your precise nutrition program calculated for your body.",
+  "statusTitle": "Diet Status",
+  "bulkingStatus": "Caloric Surplus (+)",
+  "cuttingStatus": "Caloric Deficit (-)",
+  "mealsHeader": "Daily Meals & Exact Portions",
+  "backBtn": "Back to Home",
+  "nav": {
+    "home": "HOME",
+    "workouts": "WORKOUTS",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "tag": "Train smarter. Get stronger.",
+    "title_1": "Build Your Best Body with",
+    "description": "Choose a body part, follow clean workout plans, and improve your fitness step by step.",
+    "learn_more": "Learn More"
+  },
+  "categories_section": {
+    "title": "Choose Your Focus",
+    "subtitle": "Target specific muscle groups to build your routine.",
+    "card_cta": "View sets, reps, and tips →"
+  },
+  "categories": {
+    "chest": "Chest",
+    "back": "Back",
+    "shoulders": "Shoulders",
+    "arms": "Arms",
+    "abs": "Abs",
+    "legs": "Legs"
+  },
+  "cta": {
+    "title": "Ready to get QRipped?",
+    "subtitle": "Start today with simple workouts made for each body part.",
+    "button": "Start Training Now"
+  },
+  "learnMore": {
+    "back": "Go Back",
+    "badge": "About Our Platform",
+    "title1": "The Smarter Way to Build",
+    "title2": "Your Best Body",
+    "subtitle": "QRipped is not just a workout app. It is your personal guide to a healthier and stronger life.",
+    "card1Title": "Clear Plans",
+    "card1Desc": "No more confusion. Every exercise comes with clear instructions and tips.",
+    "card2Title": "Select Muscle",
+    "card2Desc": "Focus where you need it. Filter workouts by body part.",
+    "card3Title": "Step by Step",
+    "card3Desc": "From beginner to advanced levels. Tracking your progress is simple.",
+    "ctaTitle": "Ready to start your transformation?",
+    "ctaDesc": "Choose a muscle group and start your first workout program today.",
+    "ctaBtn": "Start Now"
+  },
+  "workouts": {
+    "backHome": "Back to Home",
+    "badge": "Explore Programs",
+    "title1": "Select a",
+    "title2": "Muscle Group",
+    "subtitle": "Click on one of the categories below to view structured workout plans and follow step-by-step instructions.",
+    "chestName": "Chest",
+    "chestCount": "12 Exercises",
+    "backName": "Back",
+    "backCount": "10 Exercises",
+    "legsName": "Legs",
+    "legsCount": "15 Exercises",
+    "shouldersName": "Shoulders",
+    "shouldersCount": "8 Exercises",
+    "armsName": "Arms",
+    "armsCount": "14 Exercises",
+    "absName": "Abs",
+    "absCount": "8 Exercises"
+  }
+}

@@ -1,0 +1,4 @@
+} catch (error) {
+  console.error("Resend Error:", error); // Kjo do të tregojë në terminal pse dështoi
+  return Response.json({ error: error.message }, { status: 500 });
+}

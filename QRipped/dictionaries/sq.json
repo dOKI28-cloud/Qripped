@@ -1,0 +1,90 @@
+{
+  "badge": "Pagesa u konfirmua me sukses!",
+  "title": "Zgjidh Qëllimin Tënd",
+  "subtitle": "Zgjidhni më poshtë se çfarë dëshironi të arrini me trupin tuaj.",
+  "goalLabel": "Objektivi Kryesor",
+  "bulkingTitle": "Shtim Mase Muskulore",
+  "bulkingDesc": "Suficit kalorik për rritje të pastër muskujsh.",
+  "cuttingTitle": "Humbje Peshe & Dhjami",
+  "cuttingDesc": "Deficit kalorik për definicion dhe dobësim.",
+  "nameLabel": "Emri Mbiemri",
+  "emailLabel": "Email Adresa",
+  "ageLabel": "Mosha",
+  "weightLabel": "Pesha (kg)",
+  "heightLabel": "Gjatësia (cm)",
+  "notesLabel": "Alergji ose Shënime (Opsionale)",
+  "notesPlaceholder": "p.sh. pa laktozë...",
+  "submitBtn": "Gjenero Planin e Personalizuar →",
+  "loadingBtn": "Duke gjeneruar planin...",
+  "planTitle": "Përshëndetje",
+  "planSubtitle": "Ky është programi i saktë ushqimor i llogaritur për trupin tuaj.",
+  "statusTitle": "Statusi i Dietës",
+  "bulkingStatus": "Suficit Kalorik (+)",
+  "cuttingStatus": "Deficit Kalorik (-)",
+  "mealsHeader": "Vaktet Ditore & Gramatura e Saktë",
+  "backBtn": "Kthehu te Faqja Kryesore",
+  "nav": {
+    "home": "KRYESORE",
+    "workouts": "USHTRIMET",
+    "contact": "KONTAKT"
+  },
+  "hero": {
+    "tag": "Stërvit më zgjuar. Bëhu më i fortë.",
+    "title_1": "Ndërto Trupin Tënd më të Mirë me",
+    "description": "Zgjidh një pjesë të trupit, ndiq plane të pastra stërvitore dhe përmirëso formën tënde hap pas hapi.",
+    "learn_more": "Mëso Më Shumë"
+  },
+  "categories_section": {
+    "title": "Zgjidh Fokusin Tënd",
+    "subtitle": "Cakto muskujt specifikë për të ndërtuar rutinën tuaj.",
+    "card_cta": "Shiko seritë, përsëritjet dhe këshillat →"
+  },
+  "categories": {
+    "chest": "Kraharori",
+    "back": "Shpina",
+    "shoulders": "Veshkat / Supet",
+    "arms": "Krahët",
+    "abs": "Barku",
+    "legs": "Këmbët"
+  },
+  "cta": {
+    "title": "Gati për t'u bërë QRipped?",
+    "subtitle": "Fillo sot me stërvitje të thjeshta të bëra për çdo pjesë të trupit.",
+    "button": "Fillo Tani Stërvitjen"
+  },
+  "learnMore": {
+    "back": "Kthehu Mbrapsht",
+    "badge": "Rreth Platformës Tonë",
+    "title1": "Mënyra më e Zgjuar për të Ndërtuar",
+    "title2": "Trupin Tënd më të Mirë",
+    "subtitle": "QRipped nuk është thjesht një aplikacion stërvitjeje. Është udhëzuesi yt personal drejt një jete më të shëndetshme dhe më të fortë.",
+    "card1Title": "Plane të Qarta",
+    "card1Desc": "Mjaft me konfuzionin. Çdo ushtrim vjen me udhëzime dhe këshilla të qarta.",
+    "card2Title": "Zgjidh Muskulul",
+    "card2Desc": "Fokusohu aty ku ke nevojë. Filtro ushtrimet sipas pjesës së trupit.",
+    "card3Title": "Hap pas Hapi",
+    "card3Desc": "Nga niveli fillestar tek ai i avancuar. Njekja e progresit tënd është e thjeshtë.",
+    "ctaTitle": "Gati për të filluar transformimin tuaj?",
+    "ctaDesc": "Zgjidh një grup muskulor dhe fillo programin tënd të parë sot.",
+    "ctaBtn": "Fillo Tani"
+  },
+  "workouts": {
+    "backHome": "Kthehu te Kryesorja",
+    "badge": "Eksploro Programet",
+    "title1": "Zgjidh një",
+    "title2": "Grup Muskulor",
+    "subtitle": "Kliko në njërën nga kategoritë më poshtë për të parë plane të strukturuara stërvitore.",
+    "chestName": "Kraharori",
+    "chestCount": "12 Ushtrime",
+    "backName": "Shpina",
+    "backCount": "10 Ushtrime",
+    "legsName": "Këmbët",
+    "legsCount": "15 Ushtrime",
+    "shouldersName": "Supet",
+    "shouldersCount": "8 Ushtrime",
+    "armsName": "Krahët",
+    "armsCount": "14 Ushtrime",
+    "absName": "Barku",
+    "absCount": "8 Ushtrime"
+  }
+}

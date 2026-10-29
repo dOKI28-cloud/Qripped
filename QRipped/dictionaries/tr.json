@@ -1,0 +1,90 @@
+{
+  "badge": "Ödeme başarıyla onaylandı!",
+  "title": "Hedefini Seç",
+  "subtitle": "Vücudunla başarmak istediğin hedefi aşağıdan seç.",
+  "goalLabel": "Ana Hedef",
+  "bulkingTitle": "Kas Kütlesi Kazanımı",
+  "bulkingDesc": "Temiz kas büyümesi için kalori fazlası.",
+  "cuttingTitle": "Kilo & Yağ Kaybı",
+  "cuttingDesc": "Definasyon ve sıkılaşma için kalori açığı.",
+  "nameLabel": "Ad Soyad",
+  "emailLabel": "E-posta Adresi",
+  "ageLabel": "Yaş",
+  "weightLabel": "Kilo (kg)",
+  "heightLabel": "Boy (cm)",
+  "notesLabel": "Alerjiler veya Notlar (İsteğe bağlı)",
+  "notesPlaceholder": "örn. laktoz intoleransı...",
+  "submitBtn": "Kişiselleştirilmiş Planı Oluştur →",
+  "loadingBtn": "Plan oluşturuluyor...",
+  "planTitle": "Merhaba",
+  "planSubtitle": "Bu, vücudunuz için hesaplanan tam beslenme programıdır.",
+  "statusTitle": "Diyet Durumu",
+  "bulkingStatus": "Kalori Fazlası (+)",
+  "cuttingStatus": "Kalori Açığı (-)",
+  "mealsHeader": "Günlük Öğünler & Kesin Porsiyonlar",
+  "backBtn": "Ana Sayfaya Dön",
+  "nav": {
+    "home": "ANASAYFA",
+    "workouts": "ANTRENMANLAR",
+    "contact": "İLETİŞİM"
+  },
+  "hero": {
+    "tag": "Daha akıllı çalış. Daha güçlü ol.",
+    "title_1": "En İyi Vücudunu Şununla İnşa Et:",
+    "description": "Bir vücut bölgesi seç, temiz antrenman planlarını takip et ve formunu geliştir.",
+    "learn_more": "Daha Fazla Bilgi"
+  },
+  "categories_section": {
+    "title": "Odak Noktanı Seç",
+    "subtitle": "Rutini oluşturmak için belirli kas gruplarını hedefle.",
+    "card_cta": "Setleri, tekrarı ve ipuçlarını gör →"
+  },
+  "categories": {
+    "chest": "Göğüs",
+    "back": "Sırt",
+    "shoulders": "Omuz",
+    "arms": "Kollar",
+    "abs": "Karın",
+    "legs": "Bacaklar"
+  },
+  "cta": {
+    "title": "QRipped olmaya hazır mısın?",
+    "subtitle": "Her vücut bölgesi için hazırlanan basit antrenmanlarla bugün başla.",
+    "button": "Antrenmana Şimdi Başla"
+  },
+  "learnMore": {
+    "back": "Geri Dön",
+    "badge": "Platformumuz Hakkında",
+    "title1": "İnşa Etmenin Daha Akıllı Yolu",
+    "title2": "En İyi Vücudun",
+    "subtitle": "QRipped sadece bir antrenman uygulaması değildir. Sağlıklı bir yaşam için kişisel rehberindir.",
+    "card1Title": "Net Planlar",
+    "card1Desc": "Artık kafa karışıklığı yok. Her egzersizin net talimatları var.",
+    "card2Title": "Kas Seç",
+    "card2Desc": "İhtiyacın olan yere odaklan. Antrenmanları filtrele.",
+    "card3Title": "Adım Adım",
+    "card3Desc": "Başlangıçtan ileri seviyeye kadar ilerlemeni takip et.",
+    "ctaTitle": "Dönüşümüne başlamaya hazır mısın?",
+    "ctaDesc": "Bir kas grubu seç ve ilk antrenman programına bugün başla.",
+    "ctaBtn": "Şimdi Başla"
+  },
+  "workouts": {
+    "backHome": "Ana Sayfaya Dön",
+    "badge": "Programları Keşfet",
+    "title1": "Seç",
+    "title2": "Bir Kas Grubu",
+    "subtitle": "Yapılandırılmış planları görmek için aşağıdaki kategorilerden birine tıkla.",
+    "chestName": "Göğüs",
+    "chestCount": "12 Egzersiz",
+    "backName": "Sırt",
+    "backCount": "10 Egzersiz",
+    "legsName": "Bacaklar",
+    "legsCount": "15 Egzersiz",
+    "shouldersName": "Omuz",
+    "shouldersCount": "8 Egzersiz",
+    "armsName": "Kollar",
+    "armsCount": "14 Egzersiz",
+    "absName": "Karın",
+    "absCount": "8 Egzersiz"
+  }
+}
